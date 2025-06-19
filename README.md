@@ -9,4 +9,4 @@ So, that is what my game is, give it a try!!!
 HOW TO PLAY:
 1) Run the code
 2) Select the starting point
-3) Solve!!!
+3) Help the Green dot meet it's friend Red dot
